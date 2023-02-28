@@ -1,6 +1,9 @@
 table {
 	text-align: center;
 }
+td {
+	background-color: rgb;
+}
 .black {
 	background-color: black;
 	color: white;
